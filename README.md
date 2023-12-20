@@ -24,5 +24,29 @@ x = (1 + sqrt(5)) / 2
 
 ```
 
+- bread
+
+- milk
+
+- eggs
+
+- teabags
+
+3. three
+
+1. four
+
+1. five
+
+1. six
+
+- [x] bread
+
+- [ ] milk
+
+- [x] eggs
+
+- [ ] teabags
+
 
 
