@@ -14,4 +14,4 @@ she thought in _italics_
 to **boldly** go
 to __boldly__ go
 ```
-to boldly go
+to __boldly__ go
