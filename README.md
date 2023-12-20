@@ -13,4 +13,16 @@ Should I use `pandas` or `dplyr`?
 
 > another person with an opinion
 
+```
+
+x = (1 + sqrt(5)) / 2
+
+```
+``` python
+
+x = (1 + sqrt(5)) / 2
+
+```
+
+
 
