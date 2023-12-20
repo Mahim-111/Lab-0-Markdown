@@ -52,16 +52,15 @@ x = (1 + sqrt(5)) / 2
 * The Lord of the Rings
 
 1. The Fellowship of the Ring
-
-  1. The Ring Sets Out
-  1. The Ring Goes South
+ -The Ring Sets Out
+ -The Ring Goes South
 
 1. The Two Towers
 
-  1. The Treason of Isengard
-  1. The Ring Goes East
+  - The Treason of Isengard
+  - The Ring Goes East
 
 1. The Return of the King
 
-  1. The War of the Ring
-  2. The End of the Third Age
+  - The War of the Ring
+  - The End of the Third Age
