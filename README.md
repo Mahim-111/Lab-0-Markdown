@@ -9,4 +9,9 @@ she thought in _italics_
 she thought in _italics_
 
 2.Surround text with double asterisks or underscores to make it bold
+<br>
+```hi
 to **boldly** go
+to __boldly__ go
+```
+to boldly go
