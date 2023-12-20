@@ -15,3 +15,10 @@ to **boldly** go
 to __boldly__ go
 ```
 to __boldly__ go
+
+3.Boldness and emphasis can be nested for bold-italic text
+<br>
+```hi
+**Boldness has *genius*, _power_, and *magic*** in it
+```
+**Boldness has *genius*, _power_, and *magic*** in it
