@@ -78,10 +78,8 @@ x = (1 + sqrt(5)) / 2
 #### Section 1: The Legislature
 
 Constitution of the United States
-
 =================================
 
 Articles
-
 --------
 
