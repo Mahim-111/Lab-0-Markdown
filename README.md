@@ -2,10 +2,10 @@
 
 1.Surround text with a single asterisk or underscore for emphasis (italics)
 <br>
-`hi
+```hi
 she thought in *italics* <br>
 she thought in _italics_
-`
+```
 <br>
 she thought in _italics_
 
